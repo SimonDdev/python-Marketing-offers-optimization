@@ -1,0 +1,1001 @@
+﻿offer_id,offer_name,price,category,target_gender,min_age,max_age,estimated_profit,brand,min_income_required,min_previous_purchases_required
+1,Product 1,2250,Sports,All,35,54,715.11,Puma,97505,5
+2,Product 2,3284,Home,F,33,69,1414.26,Ikea,114179,0
+3,Product 3,4543,Electronics,All,38,56,1013.29,Huawei,23987,7
+4,Product 4,1268,Books,All,34,41,364.52,HarperCollins,90091,10
+5,Product 5,4615,Toys,F,40,62,1385.37,Hasbro,26893,5
+6,Product 6,3486,Automotive,All,36,62,404.18,Ford,25895,10
+7,Product 7,275,Beauty,M,38,70,30.35,L'Oreal,117888,0
+8,Product 8,4598,Garden,M,33,59,497.96,Gardena,76835,2
+9,Product 9,3170,Books,M,34,52,1284.62,Penguin,38589,4
+10,Product 10,2615,Automotive,M,20,68,724.07,Ford,83208,4
+11,Product 11,2377,Home,F,34,54,652.14,Home Depot,65236,2
+12,Product 12,749,Fashion,All,18,60,197.24,Zara,85726,4
+13,Product 13,3025,Fashion,F,40,41,701.56,H&M,105314,1
+14,Product 14,1866,Books,M,27,62,485.5,Random House,86105,2
+15,Product 15,1945,Electronics,All,31,64,439.19,Sony,92991,5
+16,Product 16,1736,Fashion,F,19,67,454.26,Uniqlo,30729,1
+17,Product 17,4107,Electronics,M,34,48,1302.07,LG,98069,6
+18,Product 18,2856,Electronics,All,20,58,698.9,LG,49592,7
+19,Product 19,574,Automotive,F,24,65,104.14,BMW,90316,3
+20,Product 20,2418,Home,F,25,54,665.55,Leroy Merlin,90031,2
+21,Product 21,1216,Automotive,All,19,42,594.94,BMW,30966,5
+22,Product 22,4196,Sports,M,39,66,941.16,Nike,116825,5
+23,Product 23,1765,Grocery,All,27,46,335.14,Whole Foods,73006,5
+24,Product 24,2541,Automotive,F,22,41,912.43,Toyota,100135,4
+25,Product 25,3101,Automotive,F,29,45,672.13,BMW,107142,3
+26,Product 26,4919,Books,All,30,60,1441.27,HarperCollins,52093,2
+27,Product 27,4414,Sports,All,35,68,696.78,Nike,103613,2
+28,Product 28,4802,Garden,M,36,68,2169.21,Bunnings,45945,4
+29,Product 29,166,Books,F,40,49,73.33,HarperCollins,94740,0
+30,Product 30,1131,Grocery,All,18,55,114.26,Aldi,66175,5
+31,Product 31,609,Books,F,25,53,202.17,Random House,23343,6
+32,Product 32,4849,Automotive,F,22,62,1351.02,Ford,79638,2
+33,Product 33,3197,Beauty,All,33,59,1295.26,Estée Lauder,33284,5
+34,Product 34,2794,Automotive,F,31,68,1251.27,BMW,74340,0
+35,Product 35,2191,Sports,M,31,70,423.79,Adidas,80403,4
+36,Product 36,3009,Electronics,All,33,61,870.17,LG,114758,3
+37,Product 37,1807,Toys,F,22,63,753.44,Mattel,43049,5
+38,Product 38,2899,Home,All,37,50,332.83,Leroy Merlin,43289,2
+39,Product 39,2539,Garden,All,18,64,355.83,Lowe's,29540,3
+40,Product 40,3137,Fashion,M,33,63,887.05,Prada,50977,0
+41,Product 41,945,Toys,F,37,64,461.14,Lego,79275,1
+42,Product 42,3796,Automotive,F,18,41,782.01,BMW,90588,2
+43,Product 43,3548,Toys,M,22,52,1563.63,Mattel,117856,0
+44,Product 44,3963,Grocery,All,28,52,898.27,Aldi,40764,1
+45,Product 45,2596,Automotive,F,35,43,296.88,Toyota,47350,0
+46,Product 46,4235,Sports,M,25,69,1983.55,Nike,35305,9
+47,Product 47,3119,Fashion,All,19,59,434.72,Gucci,40358,3
+48,Product 48,875,Automotive,All,38,58,192.31,Toyota,46092,10
+49,Product 49,462,Electronics,All,21,65,56.57,Sony,80692,8
+50,Product 50,725,Beauty,All,27,45,143.32,Estée Lauder,38888,7
+51,Product 51,2836,Garden,M,34,43,487.86,Bunnings,105999,3
+52,Product 52,2193,Fashion,M,40,70,554.87,Prada,52479,4
+53,Product 53,3901,Automotive,F,34,63,613.42,Ford,91180,6
+54,Product 54,2964,Books,All,26,70,1087.01,HarperCollins,34397,3
+55,Product 55,778,Books,M,39,53,126.96,HarperCollins,86234,2
+56,Product 56,445,Beauty,F,26,59,97.75,Estée Lauder,56939,8
+57,Product 57,2552,Books,All,31,60,563.61,HarperCollins,74098,9
+58,Product 58,193,Automotive,All,38,45,48.74,Ford,109112,3
+59,Product 59,2988,Garden,All,38,44,1134.58,Bunnings,80566,8
+60,Product 60,1112,Toys,All,30,61,362.93,Mattel,41545,9
+61,Product 61,3032,Electronics,F,31,66,1206.94,Sony,29348,2
+62,Product 62,782,Sports,M,28,51,188.41,Puma,26801,8
+63,Product 63,1003,Sports,M,29,57,372.22,Puma,97052,5
+64,Product 64,1592,Home,M,31,53,734.49,Leroy Merlin,70343,9
+65,Product 65,3043,Electronics,All,19,45,840.87,Huawei,108092,4
+66,Product 66,2436,Beauty,M,25,56,331.43,Estée Lauder,62348,0
+67,Product 67,1415,Beauty,M,37,57,240.91,L'Oreal,77854,6
+68,Product 68,4362,Grocery,F,30,44,1074.55,Aldi,55909,2
+69,Product 69,2973,Books,F,39,47,602.89,HarperCollins,45289,9
+70,Product 70,3652,Books,M,24,70,860.0,Penguin,64482,1
+71,Product 71,1293,Automotive,F,37,68,202.1,Toyota,77799,8
+72,Product 72,2008,Toys,F,18,43,847.04,Hasbro,100219,8
+73,Product 73,1264,Fashion,F,34,65,133.44,Uniqlo,53591,0
+74,Product 74,183,Fashion,All,29,53,67.55,Zara,42700,4
+75,Product 75,4225,Garden,All,39,61,1501.65,Lowe's,81642,4
+76,Product 76,1300,Fashion,M,36,60,375.17,Uniqlo,91726,8
+77,Product 77,3426,Grocery,All,31,55,1178.66,Aldi,72638,0
+78,Product 78,1446,Fashion,M,39,62,413.13,Zara,88866,6
+79,Product 79,1403,Toys,All,33,48,165.75,Lego,110469,7
+80,Product 80,717,Books,F,38,48,105.0,Penguin,29337,3
+81,Product 81,4235,Grocery,All,25,66,1191.97,Aldi,51921,4
+82,Product 82,4186,Grocery,All,21,67,1661.46,Whole Foods,67605,0
+83,Product 83,2558,Toys,M,33,69,1108.83,Mattel,47532,2
+84,Product 84,3374,Toys,F,23,58,714.94,Mattel,76178,4
+85,Product 85,1888,Beauty,All,19,50,524.63,L'Oreal,104791,1
+86,Product 86,1065,Beauty,All,18,62,398.6,Maybelline,47712,1
+87,Product 87,273,Beauty,All,32,57,57.43,L'Oreal,82292,9
+88,Product 88,4208,Automotive,All,39,67,777.82,BMW,92474,0
+89,Product 89,4050,Garden,F,19,49,486.94,Lowe's,28702,0
+90,Product 90,454,Sports,F,33,63,188.32,Nike,49189,0
+91,Product 91,2806,Fashion,F,22,46,902.64,Uniqlo,100642,4
+92,Product 92,3686,Sports,F,22,50,712.13,Nike,52201,2
+93,Product 93,2098,Garden,All,36,53,930.17,Bunnings,37100,3
+94,Product 94,4594,Home,M,34,48,1926.75,Ikea,112193,7
+95,Product 95,1624,Electronics,All,19,62,395.11,Apple,63125,2
+96,Product 96,4012,Garden,All,35,52,680.83,Bunnings,62944,5
+97,Product 97,285,Home,M,22,70,88.47,Leroy Merlin,44285,10
+98,Product 98,1898,Fashion,All,34,56,780.47,Uniqlo,39198,6
+99,Product 99,3328,Garden,All,22,61,1003.51,Gardena,97709,1
+100,Product 100,2172,Electronics,M,36,47,1006.72,Huawei,101317,1
+101,Product 101,1379,Books,All,19,58,669.66,Penguin,26941,10
+102,Product 102,2532,Automotive,F,19,60,684.93,Toyota,114456,5
+103,Product 103,1408,Automotive,M,40,50,390.61,Toyota,63088,4
+104,Product 104,4942,Beauty,M,21,50,624.04,Estée Lauder,75479,0
+105,Product 105,2882,Garden,M,37,64,920.35,Lowe's,112705,5
+106,Product 106,4350,Toys,F,28,51,1358.17,Hasbro,32015,10
+107,Product 107,1956,Grocery,M,32,65,273.2,Aldi,44214,6
+108,Product 108,3495,Fashion,F,33,48,1259.48,Uniqlo,78243,7
+109,Product 109,2997,Sports,All,20,43,1364.34,Adidas,53434,1
+110,Product 110,4206,Beauty,F,36,59,1091.42,Maybelline,77108,4
+111,Product 111,4749,Fashion,All,27,69,1068.57,Zara,43061,4
+112,Product 112,573,Beauty,F,31,42,214.72,Estée Lauder,111865,10
+113,Product 113,2346,Fashion,All,32,65,314.71,H&M,63221,7
+114,Product 114,4252,Fashion,M,33,69,1059.0,Prada,24432,9
+115,Product 115,2105,Grocery,All,34,43,1015.98,Aldi,70428,3
+116,Product 116,2816,Beauty,M,32,64,744.33,Maybelline,28717,9
+117,Product 117,4173,Toys,F,40,54,1620.89,Hasbro,64247,1
+118,Product 118,414,Garden,All,31,67,58.56,Gardena,25126,2
+119,Product 119,1696,Sports,All,40,54,496.72,Nike,75658,1
+120,Product 120,1956,Beauty,F,32,65,483.18,Estée Lauder,58518,4
+121,Product 121,2125,Garden,All,27,47,577.25,Gardena,70448,6
+122,Product 122,175,Garden,M,29,65,62.49,Bunnings,23596,3
+123,Product 123,1653,Garden,F,27,43,713.74,Lowe's,102152,1
+124,Product 124,2208,Electronics,All,21,55,841.42,Sony,46069,1
+125,Product 125,4768,Beauty,All,25,48,822.78,L'Oreal,101264,2
+126,Product 126,2522,Garden,M,22,46,322.4,Gardena,104659,9
+127,Product 127,1811,Electronics,All,30,46,565.38,LG,23812,8
+128,Product 128,1362,Toys,All,38,62,221.96,Hasbro,112436,5
+129,Product 129,1655,Beauty,F,40,56,541.25,L'Oreal,47139,10
+130,Product 130,3567,Electronics,All,40,49,1433.13,Samsung,33046,2
+131,Product 131,292,Fashion,All,25,45,106.51,H&M,96323,7
+132,Product 132,55,Garden,All,19,60,11.51,Gardena,99579,10
+133,Product 133,53,Fashion,All,32,46,7.65,Uniqlo,20117,0
+134,Product 134,2601,Automotive,M,23,59,580.98,Toyota,73441,10
+135,Product 135,1191,Toys,F,21,59,145.2,Lego,78067,0
+136,Product 136,4677,Books,F,34,52,1903.26,HarperCollins,87584,9
+137,Product 137,4799,Books,All,23,45,494.74,Random House,21917,10
+138,Product 138,2076,Toys,All,20,41,523.32,Mattel,79383,9
+139,Product 139,310,Sports,M,40,50,134.34,Adidas,22219,1
+140,Product 140,2110,Fashion,All,25,42,837.28,H&M,54387,0
+141,Product 141,1392,Electronics,All,22,49,182.55,Sony,39216,8
+142,Product 142,2044,Garden,All,32,64,535.06,Gardena,117829,6
+143,Product 143,3540,Toys,All,34,45,927.53,Hasbro,116573,1
+144,Product 144,4479,Home,F,38,64,1555.33,Leroy Merlin,90792,1
+145,Product 145,2685,Beauty,All,20,43,1175.48,L'Oreal,25415,5
+146,Product 146,3693,Toys,M,25,51,1143.3,Hasbro,61832,4
+147,Product 147,1364,Books,M,38,45,257.29,Penguin,39282,10
+148,Product 148,127,Fashion,M,21,65,18.49,Uniqlo,34060,9
+149,Product 149,2186,Sports,F,35,48,524.09,Puma,79207,6
+150,Product 150,4761,Home,All,31,59,754.99,Ikea,93340,5
+151,Product 151,4720,Home,M,32,41,1907.29,Leroy Merlin,39096,0
+152,Product 152,1298,Fashion,All,32,63,531.06,H&M,38381,4
+153,Product 153,3737,Automotive,F,25,59,1509.56,Ford,31302,2
+154,Product 154,247,Garden,M,23,43,122.17,Lowe's,116646,2
+155,Product 155,2085,Beauty,All,24,67,265.45,Estée Lauder,118723,5
+156,Product 156,1170,Books,F,22,67,393.78,HarperCollins,102870,0
+157,Product 157,2293,Grocery,All,39,42,652.81,Whole Foods,52265,4
+158,Product 158,1915,Electronics,All,18,62,411.4,Samsung,75180,3
+159,Product 159,3278,Garden,M,25,45,831.93,Gardena,34382,3
+160,Product 160,2941,Grocery,F,30,42,1163.37,Whole Foods,36478,2
+161,Product 161,2005,Automotive,F,21,66,658.97,Toyota,91315,10
+162,Product 162,3375,Beauty,M,27,48,1014.35,L'Oreal,96325,5
+163,Product 163,4857,Automotive,All,40,55,2232.52,Ford,96077,10
+164,Product 164,2493,Fashion,M,30,48,421.38,Prada,37368,0
+165,Product 165,1689,Automotive,F,28,52,522.96,BMW,59915,3
+166,Product 166,2985,Home,All,22,48,1394.52,Home Depot,20126,9
+167,Product 167,3106,Toys,F,26,62,1154.06,Lego,106066,7
+168,Product 168,3418,Beauty,All,39,51,471.01,Maybelline,33718,0
+169,Product 169,2911,Toys,All,22,61,1133.82,Mattel,21645,3
+170,Product 170,1255,Garden,F,40,65,292.85,Gardena,73173,6
+171,Product 171,2758,Home,F,32,49,618.05,Leroy Merlin,95060,8
+172,Product 172,251,Toys,All,37,65,96.27,Lego,117945,8
+173,Product 173,624,Books,M,37,65,223.02,HarperCollins,119929,10
+174,Product 174,435,Home,M,24,58,187.74,Leroy Merlin,28666,1
+175,Product 175,3650,Grocery,All,28,67,1343.87,Aldi,90507,10
+176,Product 176,1255,Beauty,All,24,60,280.55,L'Oreal,65765,4
+177,Product 177,4430,Beauty,F,28,62,1304.67,L'Oreal,39097,1
+178,Product 178,3170,Home,All,24,57,692.06,Ikea,66163,8
+179,Product 179,738,Grocery,F,37,62,320.33,Aldi,44917,7
+180,Product 180,4472,Electronics,M,18,53,2014.89,Huawei,61949,6
+181,Product 181,2532,Home,M,36,70,409.43,Ikea,22079,0
+182,Product 182,4574,Garden,F,33,48,760.27,Lowe's,109106,1
+183,Product 183,818,Electronics,All,31,59,303.11,Apple,68302,1
+184,Product 184,4339,Automotive,M,39,68,1739.75,Ford,58000,1
+185,Product 185,3343,Sports,M,23,59,748.12,Adidas,85155,0
+186,Product 186,3385,Sports,All,40,47,1620.91,Adidas,68770,9
+187,Product 187,1531,Automotive,F,36,54,629.62,BMW,72603,0
+188,Product 188,104,Grocery,All,35,47,17.14,Whole Foods,101244,7
+189,Product 189,882,Garden,All,40,43,176.4,Gardena,50678,10
+190,Product 190,377,Automotive,F,39,65,121.32,Toyota,105230,4
+191,Product 191,3725,Grocery,F,32,48,797.24,Whole Foods,84929,2
+192,Product 192,2193,Books,All,31,64,669.61,HarperCollins,104458,3
+193,Product 193,214,Fashion,F,39,61,40.41,H&M,106925,6
+194,Product 194,993,Beauty,F,35,47,264.1,Estée Lauder,24425,6
+195,Product 195,2248,Grocery,All,38,59,572.04,Whole Foods,40079,2
+196,Product 196,1358,Beauty,All,35,42,308.91,L'Oreal,62880,4
+197,Product 197,3644,Beauty,F,27,42,564.97,Estée Lauder,114914,6
+198,Product 198,3240,Automotive,M,29,60,503.88,BMW,34596,4
+199,Product 199,1329,Automotive,All,26,42,135.69,Toyota,82516,2
+200,Product 200,3627,Electronics,All,39,52,1574.06,Huawei,49975,0
+201,Product 201,2811,Garden,M,31,63,406.12,Lowe's,106143,0
+202,Product 202,4003,Sports,All,36,57,476.76,Adidas,22573,8
+203,Product 203,2649,Garden,All,19,53,382.37,Lowe's,119608,6
+204,Product 204,1351,Garden,M,28,54,476.61,Gardena,75961,9
+205,Product 205,2126,Sports,M,30,42,460.3,Nike,94532,10
+206,Product 206,2225,Garden,All,38,50,730.39,Bunnings,58243,8
+207,Product 207,2131,Fashion,M,34,45,520.48,Uniqlo,117432,5
+208,Product 208,4733,Grocery,M,40,61,2344.41,Aldi,60809,5
+209,Product 209,4102,Electronics,All,23,67,1181.6,LG,24263,1
+210,Product 210,504,Beauty,All,27,53,53.67,L'Oreal,31664,9
+211,Product 211,3078,Beauty,All,31,42,1116.83,L'Oreal,58709,10
+212,Product 212,3826,Garden,M,36,61,891.49,Bunnings,31555,2
+213,Product 213,4939,Beauty,M,38,51,2101.07,L'Oreal,109599,3
+214,Product 214,1186,Automotive,F,24,48,345.62,Toyota,48769,6
+215,Product 215,2761,Home,All,39,62,1133.32,Home Depot,109399,0
+216,Product 216,1835,Electronics,All,21,55,215.65,Apple,87298,3
+217,Product 217,3970,Electronics,All,30,51,889.4,LG,86017,8
+218,Product 218,203,Grocery,All,19,61,23.27,Aldi,35048,7
+219,Product 219,1290,Sports,All,28,48,573.86,Nike,75337,8
+220,Product 220,4276,Beauty,All,35,45,1794.8,Estée Lauder,106123,2
+221,Product 221,3599,Toys,M,23,42,1647.82,Hasbro,43051,2
+222,Product 222,1686,Beauty,F,29,67,503.24,Estée Lauder,89626,0
+223,Product 223,3054,Beauty,F,34,50,939.75,L'Oreal,56408,6
+224,Product 224,4157,Toys,All,33,64,1417.46,Lego,20338,7
+225,Product 225,4112,Grocery,All,38,57,579.95,Kroger,21750,4
+226,Product 226,2471,Books,All,33,46,842.73,HarperCollins,90855,8
+227,Product 227,3776,Home,M,26,53,908.58,Ikea,47935,9
+228,Product 228,4856,Beauty,M,34,63,1330.43,Maybelline,107833,4
+229,Product 229,3207,Electronics,All,24,54,1138.5,Sony,57198,4
+230,Product 230,4282,Grocery,F,36,56,1591.89,Whole Foods,93543,1
+231,Product 231,876,Home,F,40,69,325.2,Home Depot,26737,3
+232,Product 232,984,Electronics,All,20,58,191.29,Sony,37850,9
+233,Product 233,664,Beauty,All,34,54,217.06,Maybelline,94910,7
+234,Product 234,2717,Home,M,30,42,1302.88,Home Depot,102050,4
+235,Product 235,3033,Automotive,F,40,63,999.58,BMW,98187,6
+236,Product 236,4009,Beauty,All,34,44,1442.54,L'Oreal,74620,5
+237,Product 237,970,Fashion,All,30,58,169.19,Uniqlo,114223,9
+238,Product 238,1181,Toys,F,19,63,173.73,Hasbro,72393,1
+239,Product 239,2511,Automotive,All,40,53,865.67,BMW,47788,1
+240,Product 240,3860,Automotive,All,24,54,595.56,Toyota,36371,0
+241,Product 241,4622,Automotive,All,38,52,1781.08,Toyota,32984,7
+242,Product 242,1821,Beauty,M,32,65,698.93,Maybelline,70072,6
+243,Product 243,4485,Grocery,All,22,41,986.62,Whole Foods,52733,0
+244,Product 244,2100,Home,F,30,54,637.35,Ikea,44951,1
+245,Product 245,195,Sports,F,22,65,37.97,Adidas,77775,0
+246,Product 246,2682,Electronics,All,32,57,882.14,LG,109431,3
+247,Product 247,2284,Grocery,All,22,69,1036.25,Whole Foods,65028,10
+248,Product 248,4855,Books,All,24,64,1877.79,HarperCollins,76638,7
+249,Product 249,60,Grocery,All,30,42,15.83,Aldi,68280,6
+250,Product 250,4917,Fashion,All,25,60,1115.23,Gucci,101470,5
+251,Product 251,934,Automotive,All,36,53,286.69,Toyota,54157,9
+252,Product 252,4371,Grocery,M,26,57,755.24,Whole Foods,75554,7
+253,Product 253,3895,Toys,M,22,45,1742.17,Lego,93781,6
+254,Product 254,2786,Grocery,All,26,43,462.09,Kroger,82483,9
+255,Product 255,1646,Sports,All,27,43,784.09,Adidas,45425,0
+256,Product 256,52,Fashion,All,20,46,18.41,Uniqlo,74028,7
+257,Product 257,942,Books,All,32,65,208.3,Random House,79720,3
+258,Product 258,1983,Fashion,M,22,42,332.06,Uniqlo,37674,8
+259,Product 259,2732,Home,All,26,43,955.63,Leroy Merlin,108801,9
+260,Product 260,4666,Beauty,F,32,48,1518.54,L'Oreal,62520,4
+261,Product 261,1468,Fashion,All,19,64,523.46,Uniqlo,53742,5
+262,Product 262,4022,Books,M,33,66,1636.08,HarperCollins,61873,5
+263,Product 263,86,Garden,M,33,53,25.73,Gardena,61755,4
+264,Product 264,4738,Grocery,All,35,48,2286.84,Kroger,29516,2
+265,Product 265,2795,Sports,F,20,64,1045.32,Adidas,31303,1
+266,Product 266,3980,Automotive,All,30,53,493.38,Ford,119616,5
+267,Product 267,4361,Toys,All,36,56,792.0,Mattel,39623,0
+268,Product 268,1754,Home,All,30,51,679.4,Leroy Merlin,71756,8
+269,Product 269,1766,Beauty,F,27,44,268.97,Estée Lauder,106206,10
+270,Product 270,2519,Grocery,M,24,45,573.44,Kroger,68874,9
+271,Product 271,2858,Fashion,All,36,63,569.22,Gucci,98249,9
+272,Product 272,2769,Electronics,All,28,61,702.38,Huawei,56509,6
+273,Product 273,4048,Toys,All,35,44,1805.91,Lego,68845,6
+274,Product 274,2035,Beauty,F,30,54,790.5,L'Oreal,95418,0
+275,Product 275,2114,Home,All,25,42,646.65,Home Depot,32987,7
+276,Product 276,4820,Books,All,33,46,655.61,HarperCollins,96242,6
+277,Product 277,4731,Grocery,All,26,42,928.65,Aldi,81246,4
+278,Product 278,327,Beauty,All,21,60,69.5,Maybelline,103807,3
+279,Product 279,1315,Automotive,All,21,67,135.8,Toyota,70192,5
+280,Product 280,935,Toys,All,18,62,192.41,Hasbro,40953,7
+281,Product 281,2403,Toys,All,31,55,625.34,Mattel,44860,3
+282,Product 282,812,Grocery,All,20,60,260.89,Whole Foods,47083,6
+283,Product 283,78,Toys,M,28,41,31.65,Hasbro,27813,2
+284,Product 284,2556,Garden,M,40,66,377.07,Bunnings,31745,1
+285,Product 285,3406,Toys,All,21,57,1685.0,Mattel,109186,8
+286,Product 286,88,Beauty,F,32,63,15.81,Maybelline,95932,10
+287,Product 287,1873,Toys,M,19,55,221.24,Lego,98797,3
+288,Product 288,3143,Beauty,F,28,67,967.21,L'Oreal,72930,0
+289,Product 289,3503,Garden,F,29,64,546.16,Gardena,117883,4
+290,Product 290,4076,Beauty,All,37,46,2022.7,Maybelline,119986,8
+291,Product 291,4715,Books,M,23,55,1428.3,Random House,96961,2
+292,Product 292,1905,Grocery,All,34,65,619.45,Kroger,102711,1
+293,Product 293,2305,Electronics,All,25,68,851.75,LG,59341,8
+294,Product 294,3726,Garden,All,38,48,1712.12,Gardena,94318,10
+295,Product 295,3683,Electronics,M,37,47,759.48,Huawei,81788,4
+296,Product 296,3949,Garden,All,20,60,476.02,Lowe's,20526,8
+297,Product 297,2303,Home,M,24,57,894.65,Home Depot,48541,3
+298,Product 298,1813,Home,F,26,46,356.94,Leroy Merlin,85455,8
+299,Product 299,166,Fashion,All,19,64,45.88,H&M,102503,10
+300,Product 300,3838,Home,All,34,48,696.81,Leroy Merlin,46589,1
+301,Product 301,1439,Garden,F,32,46,646.29,Gardena,46143,10
+302,Product 302,778,Electronics,M,18,68,239.21,Huawei,40581,8
+303,Product 303,828,Beauty,F,39,59,241.24,Estée Lauder,66167,8
+304,Product 304,2498,Beauty,F,29,65,709.1,Maybelline,72269,5
+305,Product 305,2770,Beauty,M,27,48,1025.86,Maybelline,42431,1
+306,Product 306,51,Books,M,18,41,9.02,Penguin,65004,0
+307,Product 307,967,Books,M,24,42,183.68,HarperCollins,101061,6
+308,Product 308,139,Books,M,31,66,52.28,HarperCollins,101905,1
+309,Product 309,155,Beauty,All,40,52,50.25,Maybelline,82768,7
+310,Product 310,366,Books,All,20,67,120.56,Random House,21925,8
+311,Product 311,3194,Toys,F,24,49,823.45,Hasbro,84881,7
+312,Product 312,3961,Home,All,35,68,851.82,Leroy Merlin,23389,3
+313,Product 313,4256,Fashion,All,24,51,1178.7,Zara,66163,3
+314,Product 314,3511,Automotive,All,39,66,1513.88,Ford,53662,2
+315,Product 315,4954,Grocery,M,27,54,767.42,Aldi,35313,5
+316,Product 316,2184,Garden,All,29,53,262.75,Gardena,21560,2
+317,Product 317,2219,Sports,M,36,63,268.49,Adidas,72579,7
+318,Product 318,3854,Beauty,M,40,61,540.4,L'Oreal,90326,2
+319,Product 319,3715,Electronics,F,23,58,1824.68,Apple,36082,5
+320,Product 320,4694,Toys,M,26,67,2122.9,Hasbro,80315,9
+321,Product 321,804,Automotive,M,20,69,323.5,Ford,36309,0
+322,Product 322,952,Beauty,All,29,57,117.73,L'Oreal,92541,4
+323,Product 323,208,Garden,All,37,45,82.26,Bunnings,98339,3
+324,Product 324,1005,Home,All,35,57,437.22,Ikea,100818,8
+325,Product 325,1323,Toys,F,38,42,230.9,Mattel,42015,3
+326,Product 326,2675,Books,F,32,42,277.42,Random House,96707,5
+327,Product 327,4440,Garden,All,27,59,2189.8,Lowe's,37778,9
+328,Product 328,1319,Automotive,F,29,43,418.55,Ford,68364,1
+329,Product 329,3673,Home,F,38,55,1054.92,Ikea,77056,2
+330,Product 330,4939,Fashion,All,25,44,1938.3,Zara,43279,6
+331,Product 331,3419,Home,All,29,54,802.93,Home Depot,108397,1
+332,Product 332,424,Garden,M,22,45,75.16,Gardena,64965,8
+333,Product 333,2415,Toys,F,39,68,739.26,Lego,114588,7
+334,Product 334,2328,Toys,M,37,42,404.87,Lego,89350,5
+335,Product 335,3266,Automotive,All,19,43,650.65,Ford,33760,7
+336,Product 336,4605,Toys,All,21,53,1848.92,Hasbro,72233,2
+337,Product 337,679,Books,M,31,56,223.49,HarperCollins,91260,9
+338,Product 338,2941,Beauty,M,26,41,367.18,L'Oreal,26276,3
+339,Product 339,2410,Automotive,All,39,60,631.82,BMW,105112,10
+340,Product 340,2784,Books,M,22,52,989.67,HarperCollins,112324,0
+341,Product 341,3618,Beauty,M,29,64,678.92,L'Oreal,103310,5
+342,Product 342,669,Automotive,All,37,58,266.99,BMW,101537,8
+343,Product 343,1366,Beauty,All,37,66,436.7,Estée Lauder,47420,0
+344,Product 344,1108,Grocery,F,23,45,476.71,Whole Foods,48404,10
+345,Product 345,1058,Garden,F,36,54,140.45,Lowe's,45611,9
+346,Product 346,325,Grocery,M,38,58,42.65,Aldi,21239,10
+347,Product 347,175,Fashion,All,19,65,55.84,Uniqlo,109393,8
+348,Product 348,3299,Sports,M,40,52,527.65,Adidas,99141,3
+349,Product 349,4453,Grocery,All,33,58,1657.04,Aldi,63753,6
+350,Product 350,2083,Garden,All,38,41,957.25,Lowe's,43196,5
+351,Product 351,4662,Electronics,All,32,62,1423.3,LG,68320,6
+352,Product 352,2524,Garden,All,27,70,719.22,Lowe's,75409,1
+353,Product 353,3769,Electronics,All,32,48,1607.78,Apple,114795,10
+354,Product 354,1913,Garden,All,31,44,515.51,Gardena,51890,4
+355,Product 355,1377,Fashion,M,22,49,170.89,Gucci,28125,1
+356,Product 356,753,Automotive,All,23,49,198.45,Toyota,80576,8
+357,Product 357,4833,Toys,All,30,49,2206.43,Hasbro,105150,8
+358,Product 358,1397,Toys,All,19,69,521.21,Mattel,49165,3
+359,Product 359,1687,Grocery,All,36,46,749.22,Whole Foods,56321,1
+360,Product 360,1050,Home,F,40,59,270.08,Ikea,37772,10
+361,Product 361,3762,Sports,F,39,47,1514.1,Adidas,111736,4
+362,Product 362,3776,Automotive,M,18,52,1199.93,BMW,29108,2
+363,Product 363,2925,Toys,F,18,57,582.09,Hasbro,28927,0
+364,Product 364,3388,Home,All,20,48,1609.18,Leroy Merlin,80233,1
+365,Product 365,3039,Fashion,All,26,43,1106.44,Uniqlo,42612,9
+366,Product 366,2913,Electronics,All,19,46,369.71,Huawei,112059,4
+367,Product 367,1227,Electronics,All,29,45,452.53,Samsung,101889,4
+368,Product 368,3072,Sports,M,29,44,801.5,Nike,93770,6
+369,Product 369,2595,Grocery,All,29,67,1156.05,Whole Foods,78348,4
+370,Product 370,456,Home,M,28,63,98.36,Leroy Merlin,89967,4
+371,Product 371,764,Garden,All,36,55,259.12,Gardena,65379,4
+372,Product 372,190,Beauty,All,39,59,85.6,Maybelline,66881,3
+373,Product 373,422,Grocery,All,37,54,92.92,Whole Foods,56378,2
+374,Product 374,155,Grocery,F,21,70,70.04,Whole Foods,32289,0
+375,Product 375,2686,Toys,M,21,66,318.97,Hasbro,106365,10
+376,Product 376,1336,Toys,F,29,50,303.93,Hasbro,49734,6
+377,Product 377,2409,Toys,All,34,50,603.66,Mattel,94172,9
+378,Product 378,85,Automotive,All,37,44,16.16,BMW,32149,6
+379,Product 379,1895,Home,F,18,52,882.87,Leroy Merlin,91031,9
+380,Product 380,2988,Toys,F,30,63,964.87,Lego,85429,5
+381,Product 381,1350,Toys,All,39,68,244.8,Mattel,114088,9
+382,Product 382,4666,Fashion,F,32,50,2047.69,Gucci,96153,8
+383,Product 383,1710,Grocery,M,27,48,301.29,Kroger,91831,0
+384,Product 384,3275,Toys,M,22,44,1117.33,Lego,75826,3
+385,Product 385,3323,Sports,F,35,59,1113.32,Puma,101571,9
+386,Product 386,3090,Grocery,All,40,58,567.19,Kroger,84174,0
+387,Product 387,532,Books,F,29,42,56.46,Penguin,114880,6
+388,Product 388,711,Fashion,M,33,45,285.63,Prada,36014,2
+389,Product 389,1037,Garden,M,24,51,268.22,Bunnings,77993,8
+390,Product 390,2687,Grocery,All,30,69,572.93,Kroger,77784,8
+391,Product 391,819,Grocery,M,20,47,182.94,Kroger,85108,1
+392,Product 392,3956,Grocery,F,27,62,1133.0,Aldi,108700,6
+393,Product 393,4058,Automotive,F,34,51,925.6,Toyota,82438,7
+394,Product 394,4845,Beauty,All,31,59,573.1,L'Oreal,58467,9
+395,Product 395,1175,Home,All,27,47,377.56,Leroy Merlin,59532,3
+396,Product 396,4889,Garden,M,22,41,1066.18,Bunnings,93379,2
+397,Product 397,122,Beauty,All,25,41,40.01,L'Oreal,30106,5
+398,Product 398,2522,Automotive,M,24,44,1203.97,Ford,92240,1
+399,Product 399,2614,Books,F,29,67,772.3,Random House,24255,4
+400,Product 400,2873,Automotive,All,23,48,1129.4,Ford,93794,5
+401,Product 401,2478,Home,All,20,62,789.54,Ikea,118117,1
+402,Product 402,2824,Grocery,F,29,42,1363.69,Aldi,78576,2
+403,Product 403,2451,Electronics,F,40,70,317.97,Samsung,73363,7
+404,Product 404,711,Electronics,All,29,66,310.72,Apple,80963,4
+405,Product 405,1918,Fashion,M,32,65,198.81,Uniqlo,48982,9
+406,Product 406,2543,Automotive,All,40,56,882.76,BMW,88619,0
+407,Product 407,1981,Garden,F,25,60,720.52,Bunnings,30754,6
+408,Product 408,4493,Electronics,M,36,48,1188.56,Samsung,49301,4
+409,Product 409,3993,Grocery,M,29,41,1254.98,Kroger,117912,4
+410,Product 410,4087,Electronics,M,39,58,1549.56,LG,111878,0
+411,Product 411,1062,Home,All,33,52,147.11,Ikea,85061,3
+412,Product 412,2835,Sports,All,31,44,880.5,Adidas,25782,1
+413,Product 413,1651,Books,F,26,61,217.28,HarperCollins,55585,10
+414,Product 414,2546,Automotive,M,28,43,1263.05,Toyota,58067,6
+415,Product 415,1739,Books,M,21,58,763.68,Random House,110373,2
+416,Product 416,455,Electronics,All,28,55,114.53,Huawei,24437,4
+417,Product 417,293,Automotive,All,27,52,30.41,Toyota,117518,0
+418,Product 418,4187,Fashion,All,23,58,1145.41,Zara,107468,2
+419,Product 419,3279,Garden,F,27,70,1605.19,Gardena,93165,5
+420,Product 420,3188,Electronics,All,33,47,1468.1,Huawei,115155,8
+421,Product 421,4544,Automotive,All,38,43,2134.15,BMW,26721,10
+422,Product 422,4275,Books,F,20,58,1391.1,Penguin,92909,3
+423,Product 423,4411,Home,F,19,65,995.98,Ikea,83740,5
+424,Product 424,4309,Garden,All,31,41,1845.44,Lowe's,111245,5
+425,Product 425,287,Fashion,All,37,43,93.44,Uniqlo,55298,8
+426,Product 426,1098,Toys,M,30,61,347.22,Hasbro,37347,8
+427,Product 427,4273,Home,F,30,54,1605.47,Ikea,48179,1
+428,Product 428,3086,Grocery,M,23,69,735.53,Whole Foods,97866,1
+429,Product 429,2760,Toys,All,36,59,359.92,Mattel,99364,2
+430,Product 430,2003,Garden,F,27,65,518.14,Lowe's,75677,10
+431,Product 431,739,Electronics,M,32,49,305.52,LG,57846,2
+432,Product 432,4026,Automotive,All,20,61,1293.21,Ford,90984,2
+433,Product 433,449,Toys,All,18,44,150.12,Hasbro,66851,6
+434,Product 434,2198,Fashion,F,24,68,479.5,Prada,61779,3
+435,Product 435,469,Fashion,All,23,47,75.83,Prada,77009,4
+436,Product 436,817,Toys,All,20,47,116.52,Lego,116410,5
+437,Product 437,1599,Books,All,24,45,646.86,Penguin,96373,4
+438,Product 438,4655,Home,All,40,42,1267.98,Leroy Merlin,83037,10
+439,Product 439,2343,Grocery,M,23,55,331.11,Whole Foods,43177,6
+440,Product 440,950,Beauty,M,18,53,321.83,Estée Lauder,42740,9
+441,Product 441,291,Toys,All,30,61,77.27,Lego,36052,1
+442,Product 442,4318,Grocery,F,21,57,2121.3,Aldi,73744,10
+443,Product 443,4848,Grocery,All,38,60,1223.12,Whole Foods,49300,9
+444,Product 444,2607,Books,All,21,42,774.93,Penguin,57487,1
+445,Product 445,4889,Home,All,20,49,1312.41,Home Depot,48380,3
+446,Product 446,3543,Fashion,All,27,61,1692.45,H&M,84041,0
+447,Product 447,4250,Garden,M,34,64,1203.36,Bunnings,53160,8
+448,Product 448,621,Books,All,33,69,160.39,Random House,62080,9
+449,Product 449,291,Toys,F,25,61,67.46,Hasbro,112961,7
+450,Product 450,4076,Toys,F,39,48,1808.94,Mattel,43472,0
+451,Product 451,3976,Home,All,30,59,1356.95,Leroy Merlin,67684,0
+452,Product 452,2198,Sports,All,25,53,375.98,Adidas,80920,6
+453,Product 453,3506,Beauty,All,30,59,1325.21,Estée Lauder,109570,7
+454,Product 454,3138,Garden,F,22,60,722.85,Lowe's,108340,7
+455,Product 455,3947,Toys,All,31,44,1866.25,Lego,29866,3
+456,Product 456,4544,Garden,F,36,47,781.44,Gardena,84027,2
+457,Product 457,3612,Electronics,F,22,45,1028.15,Apple,96295,9
+458,Product 458,1623,Automotive,F,32,56,701.97,Toyota,43888,7
+459,Product 459,3889,Toys,M,25,65,605.41,Hasbro,55144,1
+460,Product 460,3043,Sports,All,20,57,491.92,Adidas,70979,3
+461,Product 461,1663,Toys,All,26,49,825.31,Hasbro,98040,9
+462,Product 462,4264,Garden,All,35,50,1290.48,Gardena,54964,3
+463,Product 463,701,Toys,M,25,42,291.82,Hasbro,79765,4
+464,Product 464,4033,Grocery,M,19,51,1878.41,Whole Foods,36905,0
+465,Product 465,985,Sports,M,35,63,238.37,Puma,65000,8
+466,Product 466,4633,Garden,All,31,68,2286.12,Gardena,69145,8
+467,Product 467,3747,Toys,F,39,60,871.7,Hasbro,22461,3
+468,Product 468,3293,Fashion,All,36,54,670.11,Uniqlo,104080,7
+469,Product 469,4038,Grocery,M,20,66,1514.52,Whole Foods,68758,6
+470,Product 470,2594,Automotive,All,29,49,739.87,BMW,63950,1
+471,Product 471,2246,Garden,M,30,70,360.03,Bunnings,35997,7
+472,Product 472,351,Automotive,All,25,54,93.5,Toyota,102566,6
+473,Product 473,1809,Fashion,F,28,62,709.24,Zara,78005,10
+474,Product 474,1418,Books,All,39,68,586.64,Random House,113980,1
+475,Product 475,4915,Automotive,All,38,55,683.43,BMW,75731,10
+476,Product 476,3728,Automotive,All,32,59,820.55,BMW,66486,7
+477,Product 477,510,Fashion,All,39,51,120.99,Gucci,47044,0
+478,Product 478,2793,Home,F,20,62,1106.57,Leroy Merlin,103986,6
+479,Product 479,2510,Home,M,24,52,583.31,Home Depot,29496,4
+480,Product 480,411,Automotive,All,33,48,107.69,Toyota,42656,4
+481,Product 481,564,Home,M,18,44,153.89,Ikea,82946,9
+482,Product 482,3612,Garden,F,27,61,1010.75,Lowe's,56735,6
+483,Product 483,972,Toys,All,19,49,180.71,Hasbro,87695,8
+484,Product 484,2597,Fashion,M,21,62,1090.22,Uniqlo,39033,9
+485,Product 485,2663,Home,All,29,57,476.22,Ikea,83437,8
+486,Product 486,3539,Books,M,38,65,1046.81,Random House,35379,10
+487,Product 487,4033,Beauty,M,36,63,1389.46,Maybelline,74341,7
+488,Product 488,1174,Fashion,All,21,55,514.46,Uniqlo,29596,3
+489,Product 489,1093,Home,F,27,64,417.96,Home Depot,86549,2
+490,Product 490,1878,Garden,M,23,61,692.69,Lowe's,98645,7
+491,Product 491,2502,Fashion,All,27,46,367.24,Zara,84429,3
+492,Product 492,4333,Home,M,30,60,1158.19,Ikea,79664,6
+493,Product 493,2680,Garden,All,21,69,467.13,Gardena,114733,2
+494,Product 494,4481,Grocery,M,40,60,1604.66,Whole Foods,113059,7
+495,Product 495,2863,Grocery,All,19,70,617.07,Whole Foods,34226,2
+496,Product 496,3938,Beauty,F,31,59,1369.49,Estée Lauder,98229,7
+497,Product 497,1182,Electronics,All,29,70,210.46,LG,41817,5
+498,Product 498,3024,Grocery,M,21,59,901.12,Aldi,77775,3
+499,Product 499,4328,Automotive,All,34,63,1886.82,Ford,96256,1
+500,Product 500,880,Home,All,37,57,98.86,Ikea,104730,10
+501,Product 501,1376,Books,All,28,65,261.35,HarperCollins,53787,5
+502,Product 502,1886,Home,F,18,57,615.33,Home Depot,65253,3
+503,Product 503,709,Grocery,M,33,55,233.32,Kroger,103930,5
+504,Product 504,2175,Grocery,F,28,47,536.67,Whole Foods,34472,9
+505,Product 505,3521,Automotive,M,22,65,1746.1,Toyota,115804,9
+506,Product 506,2147,Sports,All,20,53,1072.91,Adidas,113808,5
+507,Product 507,2807,Books,All,34,67,1197.72,HarperCollins,103820,2
+508,Product 508,4036,Fashion,F,27,43,786.13,Uniqlo,90553,2
+509,Product 509,4726,Beauty,F,22,60,1626.24,Estée Lauder,22096,4
+510,Product 510,753,Home,M,22,44,311.7,Ikea,46201,3
+511,Product 511,4783,Electronics,M,24,47,1496.66,Huawei,25105,2
+512,Product 512,4786,Grocery,All,21,46,2352.8,Kroger,33493,8
+513,Product 513,1669,Books,M,21,61,802.72,Random House,100797,7
+514,Product 514,925,Fashion,All,27,70,370.03,H&M,29557,6
+515,Product 515,212,Electronics,F,40,68,94.73,Apple,93997,7
+516,Product 516,955,Home,All,33,56,367.25,Ikea,29833,8
+517,Product 517,254,Toys,All,23,52,84.07,Hasbro,61800,3
+518,Product 518,1769,Toys,All,28,60,230.34,Lego,60785,9
+519,Product 519,924,Toys,M,38,44,195.23,Hasbro,37073,0
+520,Product 520,3191,Automotive,F,32,58,736.85,Toyota,27927,10
+521,Product 521,1221,Fashion,M,32,56,346.01,Zara,85428,9
+522,Product 522,3787,Fashion,F,29,64,981.16,H&M,42669,8
+523,Product 523,4310,Sports,All,38,58,987.62,Adidas,48228,2
+524,Product 524,3720,Beauty,M,22,64,566.32,Estée Lauder,46928,2
+525,Product 525,420,Beauty,F,38,52,170.06,L'Oreal,101912,8
+526,Product 526,4774,Fashion,M,21,50,2075.17,Gucci,35352,6
+527,Product 527,647,Fashion,F,40,41,105.59,H&M,82032,7
+528,Product 528,622,Electronics,F,19,68,168.64,Apple,43481,10
+529,Product 529,3719,Books,All,34,57,1759.42,HarperCollins,87169,5
+530,Product 530,1567,Fashion,M,23,42,313.64,Zara,89184,9
+531,Product 531,4998,Home,All,22,42,1750.51,Leroy Merlin,34357,8
+532,Product 532,3187,Sports,All,27,42,434.96,Nike,96943,2
+533,Product 533,4782,Electronics,All,24,62,627.28,Huawei,94071,7
+534,Product 534,4716,Sports,M,27,43,1311.17,Nike,87263,2
+535,Product 535,1904,Beauty,F,34,47,942.98,Estée Lauder,38708,3
+536,Product 536,1227,Home,All,21,54,235.07,Ikea,98707,5
+537,Product 537,2841,Fashion,All,38,55,701.8,Zara,38133,3
+538,Product 538,831,Home,All,26,48,353.46,Ikea,38489,9
+539,Product 539,4592,Home,All,19,65,1493.85,Leroy Merlin,42263,2
+540,Product 540,2041,Home,All,29,41,793.89,Leroy Merlin,70729,3
+541,Product 541,2324,Home,F,23,47,805.1,Home Depot,68563,6
+542,Product 542,2476,Sports,All,35,51,347.1,Nike,52658,4
+543,Product 543,4452,Garden,M,28,64,1071.21,Lowe's,91947,9
+544,Product 544,57,Beauty,F,26,44,11.35,Maybelline,77828,4
+545,Product 545,4704,Fashion,All,32,56,1601.24,Uniqlo,87821,7
+546,Product 546,4613,Books,F,23,52,1735.37,Random House,100257,6
+547,Product 547,4993,Books,All,20,53,1711.45,Penguin,85794,10
+548,Product 548,1948,Toys,All,25,46,237.32,Lego,105120,6
+549,Product 549,662,Automotive,All,33,51,130.04,BMW,110724,3
+550,Product 550,3063,Garden,All,31,62,1395.17,Bunnings,25906,8
+551,Product 551,4008,Beauty,F,33,41,612.39,Maybelline,45150,6
+552,Product 552,3654,Toys,All,30,42,1363.59,Hasbro,21283,5
+553,Product 553,1579,Fashion,All,40,67,200.55,Zara,28004,8
+554,Product 554,2450,Sports,All,21,65,304.26,Adidas,112051,1
+555,Product 555,3119,Grocery,All,22,43,1200.98,Kroger,35036,8
+556,Product 556,1445,Toys,M,23,58,192.14,Mattel,20645,2
+557,Product 557,3040,Grocery,M,29,52,641.4,Kroger,38888,4
+558,Product 558,1204,Fashion,M,29,68,218.26,Prada,79165,9
+559,Product 559,4129,Grocery,All,38,68,1381.46,Aldi,105751,9
+560,Product 560,239,Fashion,All,18,61,65.72,Prada,79042,3
+561,Product 561,2643,Electronics,All,26,59,1241.82,Samsung,33230,1
+562,Product 562,1148,Automotive,M,40,56,140.07,BMW,61855,5
+563,Product 563,1724,Home,All,32,67,660.57,Leroy Merlin,94658,0
+564,Product 564,773,Electronics,All,33,42,371.97,Huawei,21089,2
+565,Product 565,985,Grocery,F,32,47,382.48,Whole Foods,96229,8
+566,Product 566,4269,Beauty,All,18,48,1760.75,Estée Lauder,56598,6
+567,Product 567,689,Fashion,F,20,44,76.99,H&M,118745,8
+568,Product 568,4678,Books,M,20,65,959.83,Random House,113812,4
+569,Product 569,3423,Fashion,All,37,54,1041.66,Gucci,75267,0
+570,Product 570,4696,Automotive,F,26,43,783.07,Toyota,70939,1
+571,Product 571,1188,Books,F,18,46,543.76,Random House,92954,10
+572,Product 572,2504,Fashion,All,19,64,760.04,Gucci,92237,5
+573,Product 573,191,Electronics,All,21,61,55.14,LG,94567,2
+574,Product 574,3967,Home,All,37,57,1920.57,Ikea,28472,7
+575,Product 575,4415,Grocery,F,23,63,1702.46,Aldi,73909,8
+576,Product 576,4228,Toys,All,31,59,842.66,Mattel,104866,9
+577,Product 577,2381,Beauty,All,37,53,312.28,Estée Lauder,68454,8
+578,Product 578,2860,Fashion,M,40,65,1317.82,Prada,98610,3
+579,Product 579,4543,Sports,F,23,61,2237.73,Adidas,99676,3
+580,Product 580,2562,Fashion,F,26,41,1143.71,Zara,97175,3
+581,Product 581,4966,Beauty,All,20,49,1403.88,Estée Lauder,118234,8
+582,Product 582,117,Sports,All,25,42,48.41,Puma,101768,5
+583,Product 583,4058,Garden,All,40,56,1003.58,Lowe's,55292,0
+584,Product 584,2529,Sports,M,29,43,805.8,Nike,86314,1
+585,Product 585,1542,Home,All,38,45,407.11,Ikea,99151,3
+586,Product 586,3990,Grocery,All,20,52,1738.96,Whole Foods,36288,4
+587,Product 587,2094,Beauty,All,26,69,759.96,Maybelline,116136,3
+588,Product 588,1108,Books,All,34,42,345.61,Penguin,69879,0
+589,Product 589,392,Toys,All,32,48,48.59,Lego,112491,5
+590,Product 590,3709,Books,All,31,55,1737.7,Random House,69678,8
+591,Product 591,4804,Toys,M,37,69,1196.18,Mattel,102325,7
+592,Product 592,1623,Fashion,M,37,65,490.42,H&M,98002,3
+593,Product 593,1896,Fashion,M,24,68,236.84,Prada,51259,3
+594,Product 594,628,Sports,All,39,52,276.55,Adidas,20193,7
+595,Product 595,1235,Beauty,All,40,49,257.85,L'Oreal,62752,7
+596,Product 596,1160,Sports,All,23,46,473.35,Nike,22261,8
+597,Product 597,3843,Home,All,34,69,1075.37,Home Depot,106795,5
+598,Product 598,779,Toys,All,25,59,189.54,Lego,105371,9
+599,Product 599,4586,Automotive,All,30,57,944.73,Toyota,115074,7
+600,Product 600,191,Fashion,All,20,56,71.51,Uniqlo,76044,3
+601,Product 601,4846,Electronics,All,23,57,2144.98,Apple,37709,0
+602,Product 602,1263,Fashion,M,25,51,615.54,H&M,114611,0
+603,Product 603,4747,Grocery,All,24,61,1042.14,Whole Foods,23828,0
+604,Product 604,753,Electronics,F,27,51,332.71,Huawei,85333,8
+605,Product 605,1850,Grocery,All,22,57,526.91,Whole Foods,24648,0
+606,Product 606,905,Fashion,All,38,59,391.09,Prada,64602,6
+607,Product 607,232,Home,All,26,47,60.37,Leroy Merlin,90028,10
+608,Product 608,1567,Fashion,M,36,51,318.93,Gucci,103276,0
+609,Product 609,3289,Electronics,F,29,59,589.06,LG,64363,7
+610,Product 610,4601,Home,All,38,53,2019.43,Home Depot,92124,0
+611,Product 611,3422,Fashion,All,24,68,973.21,Prada,23321,4
+612,Product 612,4665,Garden,All,31,63,1818.29,Lowe's,72893,6
+613,Product 613,3810,Electronics,All,32,60,1031.24,Sony,43377,1
+614,Product 614,4083,Sports,F,21,70,857.4,Adidas,23744,3
+615,Product 615,643,Home,All,22,59,223.55,Ikea,54542,7
+616,Product 616,3858,Books,All,29,66,1748.1,HarperCollins,44306,8
+617,Product 617,4056,Electronics,All,19,69,1027.0,LG,106120,9
+618,Product 618,2547,Sports,M,36,51,1066.89,Nike,94637,1
+619,Product 619,4708,Grocery,F,39,49,2334.04,Aldi,66619,2
+620,Product 620,3205,Beauty,All,23,67,1322.3,Estée Lauder,82068,1
+621,Product 621,1678,Garden,M,23,43,428.48,Bunnings,26031,7
+622,Product 622,4058,Electronics,All,29,43,761.31,Sony,22282,0
+623,Product 623,2048,Electronics,F,22,61,591.2,Sony,57437,0
+624,Product 624,1200,Garden,F,40,64,587.51,Bunnings,58392,5
+625,Product 625,1869,Sports,M,38,62,386.16,Puma,37514,1
+626,Product 626,2708,Electronics,F,30,63,1297.46,Huawei,56788,5
+627,Product 627,3755,Toys,All,29,42,1636.01,Lego,37858,2
+628,Product 628,3293,Home,All,32,49,748.18,Leroy Merlin,88670,6
+629,Product 629,409,Beauty,F,28,56,45.51,Maybelline,67775,9
+630,Product 630,1191,Beauty,F,21,68,387.6,Maybelline,105920,7
+631,Product 631,4824,Sports,F,19,64,2046.15,Adidas,60603,4
+632,Product 632,56,Grocery,All,21,45,16.59,Whole Foods,111703,0
+633,Product 633,3314,Electronics,All,32,60,621.45,Huawei,91442,9
+634,Product 634,963,Automotive,All,20,51,449.87,Toyota,64014,10
+635,Product 635,4271,Home,All,28,57,730.27,Home Depot,31120,5
+636,Product 636,625,Electronics,All,22,48,209.15,Apple,20929,3
+637,Product 637,1513,Fashion,F,29,46,672.18,Gucci,115040,3
+638,Product 638,1950,Beauty,M,35,45,711.47,Maybelline,27069,7
+639,Product 639,3465,Fashion,All,20,51,793.63,Prada,90188,3
+640,Product 640,1228,Toys,F,31,62,594.68,Mattel,57226,10
+641,Product 641,1307,Beauty,All,36,58,637.16,Maybelline,38693,10
+642,Product 642,960,Garden,F,38,70,181.72,Gardena,73161,4
+643,Product 643,2219,Home,All,22,50,873.39,Home Depot,93851,4
+644,Product 644,3208,Home,All,23,44,323.11,Leroy Merlin,86321,8
+645,Product 645,2466,Garden,All,30,67,1227.36,Gardena,83918,3
+646,Product 646,1986,Electronics,All,30,56,451.39,Huawei,62261,3
+647,Product 647,3190,Sports,M,22,49,451.84,Adidas,22352,1
+648,Product 648,414,Home,All,39,61,54.28,Home Depot,25498,6
+649,Product 649,996,Beauty,All,20,50,452.31,L'Oreal,29569,2
+650,Product 650,4907,Beauty,All,34,61,1011.26,L'Oreal,63949,4
+651,Product 651,349,Fashion,All,28,47,144.77,Gucci,95250,0
+652,Product 652,1677,Electronics,All,20,53,659.12,Apple,78478,1
+653,Product 653,2236,Toys,All,21,59,562.32,Mattel,59420,0
+654,Product 654,3220,Toys,All,35,48,939.58,Mattel,94965,8
+655,Product 655,3785,Sports,All,36,45,490.1,Nike,78342,4
+656,Product 656,2617,Books,All,22,57,535.05,Penguin,55428,3
+657,Product 657,1959,Fashion,All,36,67,891.68,Prada,21140,1
+658,Product 658,316,Fashion,M,39,53,145.12,Gucci,23630,5
+659,Product 659,3782,Beauty,M,39,51,1306.52,Estée Lauder,46086,4
+660,Product 660,1026,Electronics,All,37,49,370.85,Huawei,86093,9
+661,Product 661,932,Toys,All,36,66,130.95,Lego,80011,3
+662,Product 662,4727,Sports,All,40,66,1520.42,Puma,92805,10
+663,Product 663,3538,Grocery,All,40,55,752.21,Whole Foods,71098,10
+664,Product 664,4849,Fashion,All,36,58,1593.9,H&M,56304,2
+665,Product 665,3852,Home,All,35,68,391.08,Ikea,38354,3
+666,Product 666,952,Books,F,30,43,333.23,HarperCollins,39503,8
+667,Product 667,1913,Sports,All,37,53,349.66,Puma,28016,0
+668,Product 668,3985,Books,F,25,59,1153.37,Penguin,60510,5
+669,Product 669,2540,Books,F,22,53,732.48,Random House,45518,6
+670,Product 670,2817,Books,All,35,62,894.82,Penguin,56188,5
+671,Product 671,4828,Beauty,F,20,62,1196.19,Estée Lauder,39337,9
+672,Product 672,2417,Electronics,All,38,56,691.32,Apple,37611,1
+673,Product 673,3802,Books,M,20,64,610.04,Random House,78653,8
+674,Product 674,3284,Fashion,All,36,58,780.0,Uniqlo,30503,9
+675,Product 675,4258,Toys,F,25,47,1430.22,Mattel,30886,2
+676,Product 676,1138,Electronics,F,21,65,486.34,LG,29764,0
+677,Product 677,3008,Grocery,M,22,53,1427.43,Aldi,62727,7
+678,Product 678,2285,Sports,All,26,41,300.66,Puma,40131,2
+679,Product 679,2291,Electronics,M,25,63,1054.28,Huawei,97064,1
+680,Product 680,463,Garden,All,23,51,222.1,Lowe's,39810,7
+681,Product 681,959,Home,F,30,53,160.02,Ikea,30207,1
+682,Product 682,2142,Sports,All,36,67,576.95,Puma,94085,1
+683,Product 683,2472,Toys,All,19,50,1060.55,Lego,76699,5
+684,Product 684,4595,Garden,All,30,64,2133.56,Bunnings,30350,1
+685,Product 685,2392,Fashion,All,20,48,619.39,Zara,37622,7
+686,Product 686,4015,Books,M,40,67,1874.46,Penguin,43782,4
+687,Product 687,3928,Garden,M,18,57,1620.98,Bunnings,35592,4
+688,Product 688,2878,Toys,All,38,59,940.06,Mattel,81202,8
+689,Product 689,1354,Fashion,F,39,57,440.15,Gucci,36566,6
+690,Product 690,1639,Books,F,37,60,740.92,HarperCollins,20159,1
+691,Product 691,1061,Books,All,38,64,312.18,Random House,117102,5
+692,Product 692,2357,Automotive,All,30,67,495.36,Toyota,91126,7
+693,Product 693,1085,Garden,M,40,54,409.55,Bunnings,35649,1
+694,Product 694,4499,Toys,F,28,49,1046.46,Lego,99563,0
+695,Product 695,1314,Electronics,M,35,62,615.39,Sony,46917,0
+696,Product 696,3464,Electronics,All,35,48,1446.08,Sony,42440,5
+697,Product 697,938,Books,F,28,65,415.81,Random House,39008,10
+698,Product 698,4282,Fashion,F,19,52,818.65,Zara,25571,3
+699,Product 699,868,Automotive,F,30,59,198.21,BMW,22224,5
+700,Product 700,2721,Toys,M,29,59,369.28,Hasbro,52441,6
+701,Product 701,1998,Sports,F,18,68,525.21,Adidas,112122,8
+702,Product 702,4168,Grocery,F,38,61,1785.6,Aldi,118538,4
+703,Product 703,978,Home,All,29,51,375.38,Home Depot,113635,8
+704,Product 704,1679,Home,F,26,61,520.01,Leroy Merlin,36211,2
+705,Product 705,1366,Electronics,All,27,57,614.8,Apple,37508,5
+706,Product 706,2637,Electronics,All,26,43,745.16,Sony,87055,1
+707,Product 707,276,Sports,All,29,49,118.52,Puma,94619,6
+708,Product 708,4122,Toys,M,30,58,616.44,Lego,47364,3
+709,Product 709,2128,Sports,All,19,56,718.45,Nike,49320,8
+710,Product 710,3287,Automotive,M,28,62,788.56,Toyota,54773,0
+711,Product 711,3221,Books,M,30,63,1209.62,HarperCollins,103692,1
+712,Product 712,4026,Electronics,All,25,47,664.95,Huawei,116035,1
+713,Product 713,989,Sports,F,38,68,355.0,Puma,67591,5
+714,Product 714,1511,Sports,All,18,44,398.61,Nike,80948,10
+715,Product 715,1598,Electronics,All,34,62,244.38,Apple,30293,9
+716,Product 716,2150,Garden,F,27,54,407.44,Gardena,48172,4
+717,Product 717,3223,Books,M,19,62,1236.82,HarperCollins,28016,3
+718,Product 718,4543,Toys,F,27,43,2001.8,Hasbro,44472,2
+719,Product 719,2208,Books,All,23,57,487.65,Random House,56021,3
+720,Product 720,4686,Garden,All,28,65,660.37,Gardena,21401,9
+721,Product 721,2327,Beauty,M,18,60,785.38,Estée Lauder,39611,0
+722,Product 722,2201,Books,M,29,67,644.22,HarperCollins,52245,4
+723,Product 723,2272,Books,M,26,42,1010.12,HarperCollins,50116,5
+724,Product 724,3512,Books,All,38,65,1077.89,Penguin,60992,6
+725,Product 725,4075,Electronics,F,24,60,1715.35,Huawei,81240,10
+726,Product 726,4629,Toys,M,30,47,1723.39,Mattel,76547,2
+727,Product 727,4602,Electronics,M,28,48,2296.34,Sony,47606,8
+728,Product 728,3625,Toys,All,25,53,1430.76,Mattel,82522,3
+729,Product 729,4761,Garden,F,20,69,1129.63,Gardena,22204,1
+730,Product 730,3326,Sports,M,32,68,1181.81,Adidas,69067,9
+731,Product 731,565,Beauty,M,25,49,247.56,Maybelline,118934,4
+732,Product 732,1897,Grocery,All,37,58,263.76,Whole Foods,81215,5
+733,Product 733,282,Books,M,34,67,91.26,Penguin,66169,6
+734,Product 734,2459,Beauty,M,27,67,464.51,L'Oreal,109388,2
+735,Product 735,510,Books,All,38,48,231.92,HarperCollins,98915,10
+736,Product 736,540,Books,M,18,57,154.17,Penguin,52430,3
+737,Product 737,3223,Automotive,All,39,68,1140.16,BMW,38990,8
+738,Product 738,4831,Garden,All,35,66,2201.83,Gardena,36241,4
+739,Product 739,2345,Fashion,F,39,41,592.51,Zara,96721,5
+740,Product 740,1996,Toys,All,19,55,881.63,Lego,104703,9
+741,Product 741,2550,Sports,All,23,46,1261.94,Adidas,64605,5
+742,Product 742,2399,Home,All,30,70,926.66,Ikea,116258,5
+743,Product 743,1166,Automotive,All,25,52,576.77,Ford,20492,10
+744,Product 744,669,Electronics,All,18,57,140.1,Apple,113935,10
+745,Product 745,2430,Garden,F,35,51,718.87,Bunnings,74110,5
+746,Product 746,3802,Home,M,33,44,1343.61,Home Depot,79234,7
+747,Product 747,2543,Toys,F,29,51,644.21,Lego,61316,8
+748,Product 748,919,Grocery,All,39,58,229.05,Whole Foods,50873,5
+749,Product 749,1333,Beauty,F,29,59,416.45,L'Oreal,45372,10
+750,Product 750,3475,Electronics,M,34,51,693.36,Sony,34122,4
+751,Product 751,2945,Books,All,19,42,746.32,Random House,90902,7
+752,Product 752,3262,Books,All,27,48,1401.15,HarperCollins,96253,3
+753,Product 753,4640,Books,All,18,51,1429.66,Random House,41542,0
+754,Product 754,4332,Beauty,All,37,64,1623.25,L'Oreal,107893,5
+755,Product 755,3165,Beauty,F,26,45,937.07,L'Oreal,42601,3
+756,Product 756,1686,Home,F,27,51,787.84,Home Depot,44532,7
+757,Product 757,2267,Electronics,All,25,42,886.1,Apple,40022,7
+758,Product 758,993,Sports,M,39,45,333.53,Nike,101050,8
+759,Product 759,4494,Fashion,All,20,52,1618.81,Gucci,103596,9
+760,Product 760,2837,Toys,F,26,62,573.97,Mattel,60695,6
+761,Product 761,716,Garden,All,19,59,356.48,Gardena,87712,8
+762,Product 762,2702,Fashion,M,24,57,291.54,Gucci,48482,3
+763,Product 763,2501,Toys,All,38,70,373.74,Hasbro,23696,6
+764,Product 764,3724,Automotive,M,31,57,678.51,BMW,73521,3
+765,Product 765,2053,Electronics,All,38,67,748.66,Huawei,86641,3
+766,Product 766,3058,Books,M,35,41,1162.93,HarperCollins,35417,9
+767,Product 767,3749,Fashion,M,40,50,1301.2,Zara,32602,10
+768,Product 768,1114,Fashion,F,26,45,333.19,Uniqlo,54681,0
+769,Product 769,2451,Sports,F,30,49,1060.3,Nike,104700,3
+770,Product 770,4854,Beauty,M,28,64,1058.85,L'Oreal,66002,4
+771,Product 771,2685,Grocery,All,36,59,491.56,Kroger,86668,6
+772,Product 772,2088,Beauty,All,24,66,219.45,L'Oreal,65607,4
+773,Product 773,4550,Fashion,F,31,44,1672.62,Prada,63798,9
+774,Product 774,133,Fashion,F,32,58,17.29,Gucci,40700,7
+775,Product 775,1441,Books,M,36,56,407.37,HarperCollins,102534,8
+776,Product 776,4620,Books,All,21,66,646.45,Penguin,102190,2
+777,Product 777,2518,Electronics,F,18,43,614.61,Sony,111502,7
+778,Product 778,3404,Toys,M,25,69,469.75,Lego,35523,1
+779,Product 779,3657,Electronics,F,27,44,1336.06,Apple,81250,1
+780,Product 780,2530,Beauty,All,40,61,695.97,Maybelline,27415,3
+781,Product 781,328,Books,F,30,45,45.0,HarperCollins,57726,4
+782,Product 782,4826,Home,All,39,46,1255.24,Home Depot,54148,8
+783,Product 783,1723,Books,F,25,47,647.78,HarperCollins,105076,3
+784,Product 784,433,Toys,M,36,62,181.32,Lego,42318,3
+785,Product 785,4109,Home,M,29,46,507.29,Ikea,40466,3
+786,Product 786,2848,Fashion,All,26,45,957.78,Uniqlo,42412,6
+787,Product 787,1899,Automotive,All,35,70,478.36,Ford,55517,4
+788,Product 788,1185,Garden,All,36,54,442.94,Gardena,109272,10
+789,Product 789,3861,Home,All,24,56,1139.96,Home Depot,47127,5
+790,Product 790,4358,Automotive,All,39,61,891.84,Ford,38375,0
+791,Product 791,321,Electronics,M,40,50,119.15,Huawei,23273,10
+792,Product 792,4399,Garden,All,26,57,2121.66,Lowe's,72874,9
+793,Product 793,2823,Grocery,M,34,44,1073.4,Whole Foods,107599,3
+794,Product 794,202,Toys,M,38,45,40.29,Hasbro,51845,0
+795,Product 795,1802,Toys,All,36,44,775.9,Mattel,53872,8
+796,Product 796,4249,Electronics,All,32,47,2012.96,Huawei,87450,5
+797,Product 797,3122,Automotive,F,32,63,1397.93,Toyota,33689,6
+798,Product 798,558,Automotive,All,34,42,129.66,Ford,33050,8
+799,Product 799,2574,Electronics,M,26,53,824.19,LG,82021,5
+800,Product 800,1413,Toys,F,37,61,185.86,Hasbro,21538,0
+801,Product 801,610,Garden,All,29,56,270.01,Lowe's,20174,6
+802,Product 802,4337,Beauty,All,18,57,1296.54,Maybelline,95225,3
+803,Product 803,1617,Electronics,All,21,58,428.4,Huawei,61328,2
+804,Product 804,92,Grocery,All,37,43,12.54,Aldi,38919,9
+805,Product 805,1874,Garden,M,31,42,854.63,Gardena,57564,6
+806,Product 806,3436,Sports,M,36,46,970.61,Adidas,76184,0
+807,Product 807,2436,Beauty,F,38,41,1039.28,Estée Lauder,59194,5
+808,Product 808,1049,Beauty,M,30,56,364.95,Estée Lauder,87391,2
+809,Product 809,708,Beauty,M,29,56,103.09,Maybelline,24986,10
+810,Product 810,1531,Sports,All,37,44,370.59,Puma,47798,1
+811,Product 811,3143,Books,M,36,65,784.35,Penguin,105988,7
+812,Product 812,2616,Electronics,F,31,64,776.87,LG,31889,6
+813,Product 813,4740,Fashion,All,36,58,845.47,Gucci,73747,7
+814,Product 814,162,Toys,All,29,70,69.63,Lego,79722,4
+815,Product 815,189,Beauty,All,34,46,50.23,Maybelline,39552,4
+816,Product 816,2666,Garden,All,31,45,1217.57,Lowe's,20887,10
+817,Product 817,3154,Garden,F,35,56,485.26,Lowe's,101938,5
+818,Product 818,1523,Electronics,M,32,47,181.89,LG,110563,0
+819,Product 819,3815,Garden,All,24,55,1157.22,Bunnings,65270,6
+820,Product 820,3524,Garden,All,39,69,1501.57,Bunnings,42931,7
+821,Product 821,2811,Toys,M,26,65,962.67,Hasbro,45991,9
+822,Product 822,251,Grocery,F,34,42,67.13,Aldi,36901,9
+823,Product 823,1391,Sports,All,26,45,675.24,Adidas,34256,10
+824,Product 824,3325,Automotive,F,24,67,516.28,BMW,79778,9
+825,Product 825,257,Grocery,All,19,68,97.81,Kroger,85303,9
+826,Product 826,4167,Grocery,M,28,63,751.54,Aldi,80710,10
+827,Product 827,4814,Books,M,32,46,2255.25,Penguin,42547,10
+828,Product 828,2650,Home,M,39,60,1000.97,Home Depot,84619,2
+829,Product 829,4741,Fashion,F,20,55,1540.41,Uniqlo,36193,4
+830,Product 830,2899,Garden,F,39,43,1113.36,Gardena,54510,10
+831,Product 831,3899,Grocery,All,26,41,1711.35,Whole Foods,114767,5
+832,Product 832,4890,Grocery,All,21,67,1233.98,Whole Foods,71707,1
+833,Product 833,4558,Electronics,All,21,41,1823.54,Apple,22642,9
+834,Product 834,4966,Books,M,32,67,787.47,Penguin,22994,4
+835,Product 835,1321,Books,All,39,44,418.06,HarperCollins,104381,8
+836,Product 836,333,Automotive,All,18,57,148.92,BMW,62051,6
+837,Product 837,866,Grocery,F,26,44,343.77,Aldi,85618,0
+838,Product 838,3541,Toys,All,26,53,1464.99,Mattel,22093,9
+839,Product 839,225,Books,M,23,57,26.73,HarperCollins,102289,10
+840,Product 840,2151,Toys,All,35,43,893.19,Mattel,70931,10
+841,Product 841,1414,Beauty,F,32,55,171.83,Maybelline,114851,10
+842,Product 842,122,Books,All,36,64,54.6,HarperCollins,86395,0
+843,Product 843,4188,Sports,F,26,50,1599.19,Puma,24017,3
+844,Product 844,3801,Beauty,F,24,57,1211.17,Maybelline,63764,6
+845,Product 845,1184,Sports,F,37,55,575.09,Adidas,80128,8
+846,Product 846,4214,Automotive,All,28,56,1572.09,Toyota,41281,7
+847,Product 847,2300,Home,M,35,43,339.81,Ikea,73053,9
+848,Product 848,1234,Toys,All,28,56,253.83,Lego,32625,6
+849,Product 849,1723,Garden,F,35,46,176.19,Lowe's,80030,2
+850,Product 850,2416,Home,All,30,64,1139.03,Leroy Merlin,96162,9
+851,Product 851,919,Electronics,F,18,63,321.78,Sony,30103,10
+852,Product 852,3871,Automotive,F,25,59,1238.97,Toyota,110605,9
+853,Product 853,2606,Beauty,M,23,51,1258.16,Maybelline,28024,6
+854,Product 854,4077,Fashion,F,18,62,667.6,Uniqlo,112708,8
+855,Product 855,1923,Grocery,All,38,42,461.06,Whole Foods,40025,10
+856,Product 856,791,Beauty,All,25,44,171.99,Maybelline,113809,10
+857,Product 857,1408,Grocery,All,35,42,456.94,Aldi,101982,5
+858,Product 858,2609,Electronics,All,28,66,621.99,Apple,27352,3
+859,Product 859,4401,Garden,F,24,69,869.33,Bunnings,74122,5
+860,Product 860,2185,Beauty,All,21,68,914.38,L'Oreal,88814,0
+861,Product 861,872,Toys,All,20,54,339.72,Lego,96709,1
+862,Product 862,170,Grocery,F,18,46,42.5,Aldi,51781,4
+863,Product 863,974,Automotive,All,22,57,212.89,BMW,55529,4
+864,Product 864,291,Sports,All,24,43,38.69,Nike,55436,3
+865,Product 865,852,Home,F,21,45,348.75,Leroy Merlin,118499,10
+866,Product 866,2409,Electronics,M,27,63,444.01,Apple,77620,9
+867,Product 867,3977,Toys,F,30,63,724.74,Mattel,22591,6
+868,Product 868,3985,Toys,M,22,44,1896.46,Mattel,82061,9
+869,Product 869,1250,Home,All,27,66,483.43,Ikea,104774,0
+870,Product 870,1286,Fashion,All,26,46,220.16,Zara,79500,2
+871,Product 871,711,Grocery,All,26,62,304.77,Kroger,112420,9
+872,Product 872,136,Toys,All,34,52,47.88,Hasbro,110063,2
+873,Product 873,2992,Beauty,All,39,49,1105.0,Maybelline,113422,4
+874,Product 874,3720,Electronics,M,30,54,1292.1,Huawei,52115,6
+875,Product 875,3368,Electronics,M,25,61,434.59,Huawei,106465,4
+876,Product 876,695,Fashion,All,29,58,260.17,Uniqlo,33917,5
+877,Product 877,4903,Fashion,All,18,70,2307.73,H&M,90269,10
+878,Product 878,548,Toys,F,31,66,61.56,Lego,119977,2
+879,Product 879,3029,Grocery,All,19,49,1207.67,Aldi,66313,10
+880,Product 880,2303,Books,F,24,63,363.02,Random House,89166,5
+881,Product 881,196,Beauty,F,39,55,20.47,Maybelline,23453,7
+882,Product 882,2460,Home,All,26,55,250.95,Leroy Merlin,105280,0
+883,Product 883,68,Toys,M,20,50,32.56,Hasbro,28640,1
+884,Product 884,4286,Sports,M,39,41,1977.64,Adidas,63937,0
+885,Product 885,4390,Sports,All,24,64,1573.26,Puma,91696,6
+886,Product 886,1398,Home,All,34,43,263.26,Home Depot,25126,9
+887,Product 887,866,Sports,All,24,61,319.03,Puma,20192,0
+888,Product 888,3695,Electronics,F,34,51,1747.54,Huawei,85048,10
+889,Product 889,1838,Automotive,M,20,55,237.58,BMW,56468,10
+890,Product 890,2513,Fashion,All,33,65,449.74,Uniqlo,62056,7
+891,Product 891,1897,Automotive,F,18,69,460.7,BMW,53272,5
+892,Product 892,2522,Sports,All,36,52,877.17,Nike,63954,5
+893,Product 893,3866,Beauty,All,24,54,894.35,Maybelline,31676,2
+894,Product 894,708,Books,M,19,49,113.96,Random House,114636,2
+895,Product 895,4284,Beauty,F,38,54,2071.16,L'Oreal,57405,8
+896,Product 896,1305,Electronics,All,35,59,540.61,LG,71759,1
+897,Product 897,3857,Books,F,25,62,592.91,Random House,71717,8
+898,Product 898,2389,Beauty,F,32,68,681.2,Estée Lauder,116371,8
+899,Product 899,3170,Books,All,30,58,455.0,Random House,67937,5
+900,Product 900,2432,Garden,All,37,69,516.18,Bunnings,53402,9
+901,Product 901,3854,Grocery,All,20,59,1516.23,Aldi,93933,7
+902,Product 902,2671,Fashion,M,21,67,1220.23,Uniqlo,44123,3
+903,Product 903,2940,Electronics,F,28,67,974.79,Huawei,84925,10
+904,Product 904,947,Sports,F,34,49,303.64,Puma,34683,1
+905,Product 905,3625,Grocery,All,32,56,1486.54,Kroger,112067,7
+906,Product 906,299,Toys,All,22,56,122.25,Mattel,52172,6
+907,Product 907,1553,Books,All,37,57,466.6,Penguin,64386,4
+908,Product 908,93,Toys,All,24,68,9.69,Lego,55710,5
+909,Product 909,3022,Garden,M,34,56,1217.51,Bunnings,96502,2
+910,Product 910,1862,Automotive,All,21,50,608.02,BMW,64516,4
+911,Product 911,1543,Home,M,27,52,452.72,Home Depot,79049,10
+912,Product 912,103,Electronics,All,33,48,30.39,Samsung,36999,10
+913,Product 913,1004,Books,All,19,70,117.59,Penguin,96509,9
+914,Product 914,2397,Grocery,F,28,55,586.07,Kroger,41839,0
+915,Product 915,3851,Automotive,F,19,58,446.57,BMW,92075,2
+916,Product 916,907,Beauty,All,40,58,442.05,Maybelline,27485,0
+917,Product 917,433,Books,F,23,65,88.91,Random House,73442,5
+918,Product 918,4084,Garden,All,18,70,1476.24,Lowe's,67788,4
+919,Product 919,972,Garden,M,21,47,422.03,Gardena,93493,9
+920,Product 920,3096,Books,All,38,55,1433.13,Random House,119534,3
+921,Product 921,1864,Toys,All,40,46,833.37,Hasbro,45939,9
+922,Product 922,3990,Automotive,F,37,52,409.53,Toyota,36544,7
+923,Product 923,818,Automotive,All,22,62,107.02,BMW,86629,4
+924,Product 924,657,Books,All,20,55,114.82,HarperCollins,39259,7
+925,Product 925,1887,Garden,M,35,56,278.02,Bunnings,22103,10
+926,Product 926,3625,Toys,F,25,69,1406.87,Hasbro,98278,7
+927,Product 927,4222,Automotive,All,23,58,1419.93,BMW,117537,7
+928,Product 928,2428,Toys,All,18,62,284.7,Mattel,106908,5
+929,Product 929,2785,Garden,All,37,52,979.81,Bunnings,61258,10
+930,Product 930,2555,Garden,All,20,53,425.5,Bunnings,43386,2
+931,Product 931,4496,Grocery,F,32,56,1527.48,Aldi,104748,0
+932,Product 932,2900,Electronics,F,37,51,1134.45,Sony,81114,4
+933,Product 933,4644,Fashion,All,39,51,1591.08,H&M,34334,4
+934,Product 934,2900,Automotive,All,39,46,1253.22,BMW,63469,7
+935,Product 935,163,Home,F,34,44,69.79,Ikea,85206,10
+936,Product 936,3476,Garden,M,20,56,715.39,Gardena,106724,4
+937,Product 937,3246,Beauty,F,27,59,1099.14,L'Oreal,96312,3
+938,Product 938,1646,Sports,All,36,51,251.65,Nike,56289,9
+939,Product 939,622,Sports,M,28,65,288.44,Puma,104178,6
+940,Product 940,700,Toys,F,31,42,239.54,Lego,92374,4
+941,Product 941,3312,Automotive,F,22,59,1125.83,BMW,42164,1
+942,Product 942,2267,Grocery,F,37,46,311.2,Aldi,99768,10
+943,Product 943,4433,Home,F,28,69,1399.56,Ikea,72113,10
+944,Product 944,1148,Toys,M,38,52,284.88,Lego,56182,8
+945,Product 945,620,Grocery,All,26,62,294.73,Kroger,104425,5
+946,Product 946,1924,Toys,All,18,47,811.64,Mattel,59104,7
+947,Product 947,4551,Garden,All,39,58,698.82,Lowe's,43470,0
+948,Product 948,4238,Sports,F,31,54,565.89,Puma,64435,1
+949,Product 949,1185,Grocery,All,18,63,208.1,Aldi,92762,10
+950,Product 950,256,Electronics,M,29,48,37.67,Samsung,86677,3
+951,Product 951,2740,Toys,M,30,53,1027.79,Hasbro,45380,0
+952,Product 952,2839,Toys,All,19,44,459.67,Mattel,43989,9
+953,Product 953,1660,Garden,All,25,52,733.7,Lowe's,42439,10
+954,Product 954,3271,Garden,All,37,48,687.64,Gardena,109049,0
+955,Product 955,4785,Toys,F,37,60,1269.42,Mattel,59350,10
+956,Product 956,2616,Automotive,All,33,53,846.64,Ford,111066,7
+957,Product 957,993,Books,F,38,63,328.74,Random House,108151,8
+958,Product 958,4324,Toys,M,37,45,1911.21,Mattel,102384,6
+959,Product 959,1280,Fashion,M,38,70,356.66,Prada,51085,3
+960,Product 960,3906,Fashion,All,27,70,1016.44,Zara,111036,2
+961,Product 961,4639,Grocery,M,28,42,1734.18,Whole Foods,107985,6
+962,Product 962,2461,Home,All,19,67,872.06,Ikea,112435,1
+963,Product 963,2825,Home,All,27,60,960.78,Ikea,65838,4
+964,Product 964,3205,Fashion,All,20,45,795.91,Uniqlo,85149,8
+965,Product 965,633,Electronics,M,25,52,298.95,LG,95831,6
+966,Product 966,4505,Garden,M,28,54,966.72,Gardena,45479,7
+967,Product 967,1133,Electronics,F,27,47,485.03,LG,35408,3
+968,Product 968,686,Automotive,All,30,44,302.0,BMW,64825,5
+969,Product 969,3637,Books,All,35,46,1504.2,Random House,38814,7
+970,Product 970,4016,Grocery,M,40,62,1389.84,Aldi,64673,6
+971,Product 971,4156,Electronics,All,31,70,1504.5,Apple,30692,5
+972,Product 972,1339,Fashion,F,25,54,551.49,Zara,79287,2
+973,Product 973,3233,Toys,All,40,57,582.34,Lego,39520,6
+974,Product 974,2832,Fashion,F,27,65,905.78,Uniqlo,50134,9
+975,Product 975,275,Garden,All,26,62,133.46,Lowe's,90744,1
+976,Product 976,3492,Sports,M,29,48,620.91,Adidas,93616,9
+977,Product 977,1344,Garden,All,32,63,228.5,Gardena,106694,0
+978,Product 978,3153,Fashion,M,26,48,949.9,Zara,51379,9
+979,Product 979,3852,Fashion,F,38,58,1859.3,Uniqlo,69996,8
+980,Product 980,496,Garden,All,29,52,137.45,Lowe's,37618,6
+981,Product 981,276,Garden,All,33,58,54.46,Lowe's,31151,6
+982,Product 982,1880,Automotive,M,21,67,862.19,Toyota,55303,0
+983,Product 983,2082,Automotive,All,22,46,264.46,BMW,57842,8
+984,Product 984,1931,Sports,M,31,62,370.7,Adidas,108059,6
+985,Product 985,2942,Toys,F,23,46,902.02,Lego,101972,2
+986,Product 986,1716,Books,All,30,62,235.44,Random House,119023,5
+987,Product 987,2344,Beauty,All,25,70,1107.68,Estée Lauder,45805,2
+988,Product 988,3003,Beauty,All,20,67,1374.55,Estée Lauder,92779,0
+989,Product 989,876,Home,F,22,70,326.96,Ikea,39800,8
+990,Product 990,2384,Automotive,M,38,66,462.36,Toyota,66675,6
+991,Product 991,4528,Books,All,39,44,820.05,Penguin,73772,9
+992,Product 992,325,Garden,All,37,53,133.76,Bunnings,20336,5
+993,Product 993,3029,Fashion,M,18,41,1106.7,Uniqlo,119214,0
+994,Product 994,3179,Electronics,F,25,58,1006.44,Samsung,91386,6
+995,Product 995,3807,Automotive,All,25,48,861.02,BMW,118618,9
+996,Product 996,1184,Books,All,30,47,584.61,Random House,111632,8
+997,Product 997,1774,Books,All,33,63,709.72,Penguin,113185,5
+998,Product 998,771,Electronics,M,34,70,207.61,Huawei,86406,1
+999,Product 999,1806,Electronics,M,31,70,465.02,Apple,64369,10
+1000,Product 1000,1697,Automotive,F,40,57,643.67,Ford,113095,2
